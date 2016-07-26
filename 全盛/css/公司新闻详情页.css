@@ -1,0 +1,79 @@
+.saber{
+	width: 100%;
+	min-width: 1219px;
+	height: 2290px;
+	position: relative;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+.middle{
+	width: 1219px;
+	margin: 0 auto;
+}
+.middle .titile{
+	font-size: 24px;
+	color: #434343;
+	text-align: center;
+	padding-top: 34px;
+}
+.middle .p0{
+	font-size: 14px;
+	color: #c9c9c9;
+	text-align: center;
+	word-spacing: 35px;
+	text-indent: -178px;
+	padding-top: 16px;
+}
+.middle .p1,.middle .p2,.middle .p3,.middle .p4,.middle .p5,.middle .p6{
+	font-size: 14px;
+	color: #9b9b9b;
+	text-indent: 28px;
+}
+.middle div{
+	text-align: center;
+}
+.middle .lesstitile,.middle .lesstitile1{
+	font-size: 14px;
+	color: #202020;
+	font-weight: bold;
+}
+.middle .p1{
+	margin-top: 56px;
+	margin-bottom: 34px;
+}
+.middle .p2{
+	margin-top: 66px;
+	margin-bottom: 38px;
+}
+.middle .lesstitile{
+	margin-top: 50px;
+}
+.middle .p3{
+	margin-top: 26px;
+	margin-bottom: 30px;
+}
+.middle .p4{
+	margin-bottom: 38px;
+}
+.middle .lesstitile1{
+	margin-top: 35px;
+	margin-bottom: 27px;
+}
+.middle .p5{
+	margin-bottom: 28px;
+}
+.middle .p6{
+	margin-bottom: 55px;
+}
+.middle .p7 span{
+	font-size: 12px;
+	font-weight: bold;
+	color: #575757;
+}
+.middle .p7 a{
+	font-size: 12px;
+	font-weight: bold;
+	color: #575757; 
+}

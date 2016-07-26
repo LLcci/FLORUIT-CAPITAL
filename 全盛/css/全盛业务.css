@@ -1,0 +1,364 @@
+.saber{
+	width: 100%;
+	min-width: 1366px;
+	height: 2878px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.middle{
+	width: 1358px;
+	margin: 0 auto;
+	padding-top: 36px;
+}
+/*信贷业务*/
+.pro1{
+	width: 1358px;
+	height: 383px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin-bottom: 82px;
+}
+.pro1 img{
+	width: 651px;
+	height: 383px;
+}
+.pro1 i{
+	display: block;
+	width: 293px;
+	height: 55px;
+	background: url(../profileimg/i1.png) 0 0 no-repeat;
+	position: absolute;
+	right: 0;
+	top: 18px;
+}
+.pro1 .word{
+	width: 843px;
+	height: 258px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background: #fff;
+}
+.pro1 .word .wor{
+	width: 789px;
+	position: absolute;
+	right: 0;
+	top: 26px;
+}
+.pro1 .word .wor .ch{
+	font-size: 14px;
+	color: #7d7d7d;
+	line-height: 24px;
+}
+.pro1 .word .wor .ch span{
+	font-size: 28px;
+}
+.pro1 .word .wor .en{
+	font-size: 12px;
+	color: #7d7d7d;
+	line-height: 18px;
+	margin-top: 28px;
+	margin-bottom: 42px;
+}
+.pro1 .word .wor a{
+	display: block;
+	width: 75px;
+	height: 25px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	color: #9b9b9b;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+}
+/*理财业务*/
+.pro2{
+	width: 1358px;
+	height: 382px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin-bottom: 117px;
+}
+.pro2 img{
+	width: 613px;
+	height: 382px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+}
+.pro2 i{
+	display: block;
+	width: 265px;
+	height: 38px;
+	background: url(../profileimg/i2.png) 0 0 no-repeat;
+	position: absolute;
+	left: 0;
+	top: 18px;
+}
+.pro2 .word{
+	width: 832px;
+	height: 256px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: 2;
+	background: #fff;
+}
+.pro2 .word .wor{
+	width: 776px;
+	position: absolute;
+	left: 0;
+	top: 26px;
+}
+.pro2 .word .wor .ch{
+	font-size: 14px;
+	color: #7d7d7d;
+	line-height: 24px;
+}
+.pro2 .word .wor .ch span{
+	font-size: 28px;
+}
+.pro2 .word .wor .en{
+	font-size: 12px;
+	color: #7d7d7d;
+	line-height: 18px;
+	margin-top: 28px;
+	margin-bottom: 42px;
+}
+.pro2 .word .wor a{
+	display: block;
+	width: 75px;
+	height: 25px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	color: #9b9b9b;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+}
+/*消费金融*/
+.pro3{
+	width: 1358px;
+	height: 381px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin-bottom: 133px;
+}
+.pro3 img{
+	width: 648px;
+	height: 381px;
+	position: absolute;
+	left: 0;
+	top:0;
+	z-index: 1;
+}
+.pro3 i{
+	display: block;
+	width: 265px;
+	height: 38px;
+	background: url(../profileimg/i3.png) 0 0 no-repeat;
+	position: absolute;
+	right: 0;
+	top: 18px;
+	z-index: 3;
+}
+.pro3 .word{
+	width: 829px;
+	height: 381px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 2;
+	background: #fff;
+}
+.pro3 .word .wor{
+	width: 789px;
+	position: absolute;
+	right: 0;
+	top: 150px;
+}
+.pro3 .word .wor .ch{
+	font-size: 14px;
+	color: #7d7d7d;
+	/*line-height: 24px;*/
+}
+.pro3 .word .wor .ch span{
+	font-size: 28px;
+}
+.pro3 .word .wor .en{
+	font-size: 12px;
+	color: #7d7d7d;
+	/*line-height: 18px;*/
+	padding-top: 28px;
+	padding-bottom: 44px;
+}
+.pro3 .word .wor a{
+	display: block;
+	width: 75px;
+	height: 25px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	color: #9b9b9b;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+}
+/*商业保险*/
+.pro4{
+	width: 1358px;
+	height: 383px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin-bottom: 117px;
+}
+.pro4 .img{
+	width: 631px;
+	height: 383px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+	overflow: hidden;
+}
+.pro4 img{
+	height: 100%;
+}
+.pro4 i{
+	display: block;
+	width: 264px;
+	height: 38px;
+	background: url(../profileimg/i4.png) 0 0 no-repeat;
+	position: absolute;
+	left: 0;
+	top: 18px;
+}
+.pro4 .word{
+	width: 832px;
+	height: 258px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: 2;
+	background: #fff;
+}
+.pro4 .word .wor{
+	width: 776px;
+	height: 232px;
+	margin-top: 26px;
+}
+.pro4 .word .wor .ch{
+	font-size: 14px;
+	color: #7d7d7d;
+	/*line-height: 24px;*/
+}
+.pro4 .word .wor .ch span{
+	font-size: 28px;
+}
+.pro4 .word .wor .en{
+	font-size: 12px;
+	color: #7d7d7d;
+	/*line-height: 18px;*/
+	margin-top: 30px;
+	margin-bottom: 42px;
+}
+.pro4 .word .wor a{
+	display: block;
+	width: 75px;
+	height: 25px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	color: #9b9b9b;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+}
+/*三方支付*/
+.pro5{
+	width: 1358px;
+	height: 381px;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.pro5 .img{
+	width: 611px;
+	height: 381px;
+	position: absolute;
+	left: 0;
+	top:0;
+	z-index: 1;
+	overflow: hidden;
+}
+.pro5 img{
+	margin-top: -88px;
+	margin-left: -98px;
+}
+.pro5 i{
+	display: block;
+	width: 265px;
+	height: 38px;
+	background: url(../profileimg/i5.png) 0 0 no-repeat;
+	position: absolute;
+	right: 0;
+	top: 18px;
+	z-index: 3;
+}
+.pro5 .word{
+	width: 834px;
+	height: 259px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: 2;
+	background: #fff;
+}
+.pro5 .word .wor{
+	width: 789px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.pro5 .word .wor .ch{
+	font-size: 14px;
+	color: #7d7d7d;
+	/*line-height: 24px;*/
+}
+.pro5 .word .wor .ch span{
+	font-size: 28px;
+}
+.pro5 .word .wor .en{
+	font-size: 12px;
+	color: #7d7d7d;
+	/*line-height: 18px;*/
+	padding-top: 28px;
+	padding-bottom: 40px;
+}
+.pro5 .word .wor a{
+	display: block;
+	width: 75px;
+	height: 25px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	color: #9b9b9b;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+}
